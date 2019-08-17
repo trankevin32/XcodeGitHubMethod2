@@ -13,5 +13,7 @@ int main(int argc, const char * argv[]) {
     std::cout << "Hello, World!\n";
     
     std::cout << "Kevin Tran";
+    
+    std::cout << "Final test";
     return 0;
 }
