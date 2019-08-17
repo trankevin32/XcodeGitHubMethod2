@@ -12,8 +12,10 @@ int main(int argc, const char * argv[]) {
     // insert code here...
     std::cout << "Hello, World!\n";
     
-    std::cout << "Kevin Tran";
+    std::cout << "Kevin Tran" << std::endl;
     
-    std::cout << "Final test";
+    std::cout << "Final test" << std::endl;
+    
+    std::cout << "Just kidding, this is the final test." << std::endl;
     return 0;
 }
